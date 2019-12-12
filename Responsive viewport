@@ -1,5 +1,5 @@
-XSmall: 0-767
-Small: 768-991
-Medium: 992-1199
-Large: 1200-1599
-XLarge: 1600-infinity
+xs - XSmall: 0-767
+sm - Small: 768-991
+md - Medium: 992-1199
+lg - Large: 1200-1599
+xl - XLarge: 1600-infinity
