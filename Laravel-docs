@@ -1,0 +1,14 @@
+// to enter the project root directory
+- cd my_project  
+
+// to install all the dependencies
+- composer install 
+
+// to generate the app key
+- php artisan key:generate 
+
+// to update, create tables in DB as well as seed data.
+- php artisan migrate --seed
+
+// to start the development server
+- php artisan serve 
